@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Panel{
+    background-image: url(Rectangle\ 2.png);
+    width: 50px;
+    height: 820px;
+    position: fixed;
+}
+
+.background{
+    background-image: url(Rectangle\ 1.png);
+    width: 500px;
+    height: 820px;
+    position: fixed;
+}
+
+.info{
+    background-image: url(Rectangle\ 3.png);
+    width: 420px;
+    height: 620px;
+    margin-left: 40px;
+    
+}
+
+.ImageInfo{
+    margin: 20px;
+}
+
+.Icons{
+    margin: 5px;
+}
+
+.Name{
+    margin: 25px;
+}
