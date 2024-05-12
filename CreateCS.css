@@ -32,19 +32,122 @@
     bottom: 20px;
 }
 
-.Icons{
-    margin: 5px;
-    width: 64px;
-}
-
 .Name{
     margin: 25px;
     margin-left: 30%;
     width: 40%;
 }
 
-h2, h1, h3 ,h4, h5{
+h2, h1, h3 ,h4, h5, h6{
     font-size: 25px;
     margin: 25px;
     margin-top: 20px;
+}
+
+.Icons{
+    display: block;
+    margin: 5px;
+    width: 65px;
+    height: 65px;
+    background-image: url(CreatePNG.png);
+    background-size: cover;
+}
+
+.Icons1{
+    display: block;
+    margin: 5px;
+    width: 65px;
+    height: 65px;
+    background-image: url(Addon2.png);
+    background-size: cover;
+}
+
+.Icons2{
+    display: block;
+    margin: 5px;
+    width: 65px;
+    height: 65px;
+    background-image: url(Addon3.png);
+    background-size: cover;
+}
+
+.Icons3{
+    display: block;
+    margin: 5px;
+    width: 65px;
+    height: 65px;
+    background-image: url(Addon4.png);
+    background-size: cover;
+}
+
+.Icons4{
+    display: block;
+    margin: 5px;
+    width: 65px;
+    height: 65px;
+    background-image: url(Addon6.png);
+    background-size: cover;
+}
+
+.Icons5{
+    display: block;
+    margin: 5px;
+    width: 65px;
+    height: 65px;
+    background-image: url(Addon5.png);
+    background-size: cover;
+}
+
+.imgIF{
+    margin-left: 25px;
+}
+
+.info2{
+    background-image: url(Rectangle\ 3.png);
+    width: 80%;
+    height: 1050px;
+    margin-left: 170px;
+    position: relative;
+    padding-top: 5px;
+    border-radius: 15px;
+}
+
+.info3{
+    background-image: url(Rectangle\ 3.png);
+    width: 80%;
+    height: 1500px;
+    margin-left: 170px;
+    position: relative;
+    padding-top: 5px;
+    border-radius: 15px;
+}
+
+.imgIFP{
+    margin-left: 25px;
+    width: 70%;
+}
+
+.info4{
+    background-image: url(Rectangle\ 3.png);
+    width: 80%;
+    height: 1200px;
+    margin-left: 170px;
+    position: relative;
+    padding-top: 5px;
+    border-radius: 15px;
+}
+
+.imgIFH{
+    margin-left: 25px;
+    width: 70%;
+}
+
+.info5{
+    background-image: url(Rectangle\ 3.png);
+    width: 80%;
+    height: 1200px;
+    margin-left: 170px;
+    position: relative;
+    padding-top: 5px;
+    border-radius: 15px;
 }
